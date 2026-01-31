@@ -21,7 +21,6 @@ Tool untuk ekstrak dan repack file archive KiriKiri (format .xp3, .kg) dari visu
 | `ArcKGPACK.py` | Pack file ke format KG |
 | `ArcPACK.py` | Generic archive packer |
 | `ArcPATCH.py` | Buat dan apply patch file |
-| `COMPARISON.md` | Dokumentasi perbandingan format |
 
 ## Cara Pakai
 
